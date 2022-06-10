@@ -1,26 +1,26 @@
 /* Border styles */
 
-  a {
-    font-size: 15px;
-    font-style: italic;
-  }
+a {
+  font-size: 15px;
+  font-style: italic;
+}
 
-  ol {
-    color: maroon;
-    font-style: italic;
-  }
+ol {
+  color: maroon;
+  font-style: italic;
+}
 
-  ul {
-    color: maroon;
-    font-style: italic;
-  }
+ul {
+  color: maroon;
+  font-style: italic;
+}
 
-  .box1 {
-    border: solid 1px red;
-    width: 700px;
-  }
-  
-  .box2 {
-    padding: 4px;
-    margin: 10px;
-  }
+.box1 {
+  border: solid 1px red;
+  width: 700px;
+}
+
+.box2 {
+  padding: 4px;
+  margin: 10px;
+}
